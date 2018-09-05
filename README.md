@@ -21,10 +21,8 @@ Output
 ![image](https://sevketpolan.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-05-at-09.55.57.png)
 
 and finally file uploaded...
-
+![image](https://sevketpolan.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-05-at-09.54.52.png)
 Thank you.
 
-https://sevketpolan.com/php-dropbox-upload-api-v2/- automatic!
-
-[Source](https://sevketpolan.com/php-dropbox-upload-api-v2/)
+https://sevketpolan.com/php-dropbox-upload-api-v2/
 
